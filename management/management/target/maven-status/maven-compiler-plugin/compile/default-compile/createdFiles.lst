@@ -1,0 +1,15 @@
+com\library\management\service\BorrowingService.class
+library\entities\borrowStatus.class
+com\library\management\repository\BookRepository.class
+com\library\management\repository\MemberRepository.class
+com\library\management\controller\MemberController.class
+library\entities\member.class
+library\entities\book.class
+library\entities\role.class
+com\library\management\ManagementApplication.class
+com\library\management\repository\BorrowingRepository.class
+com\library\management\controller\BorrowingController.class
+library\entities\borrowing.class
+com\library\management\controller\BookController.class
+com\library\management\service\MemberService.class
+com\library\management\service\BookService.class
